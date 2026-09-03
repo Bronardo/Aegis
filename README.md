@@ -58,4 +58,4 @@ The code is split by responsibility (following the RDD design):
 - `Theme.cs` — shared color palette.
 
 All graphics are rendered with SplashKit primitive shapes and text — no image or
-audio assets are required.
+audio assets are required. Or to be impleted in 7.4H?
