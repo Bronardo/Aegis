@@ -1,5 +1,7 @@
 # Aegis Protocol: Core Defense
 
+[![Badge](https://img.shields.io/badge/GitHub-Bronardo%2FAegis-blue)](https://github.com/Bronardo/Aegis)
+
 A tower-defense game built with **SplashKit** and **C# / .NET 8** for SIT771 Task 7.3D.
 Rogue mech units pour along a winding route toward your Power Core. Build and upgrade
 defensive turrets to stop them before the core is breached.
