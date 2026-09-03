@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# SplashKit runtime log
+myeasylog.log
+
+# OS / misc
+Thumbs.db
+nul
